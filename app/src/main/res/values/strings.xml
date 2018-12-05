@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shamer</string>
+    <string name="chore_title_label">Title</string>
+    <string name="chore_edit_title_hint">Enter a title for the chore here.</string>
+    <string name="chore_details_label">Details</string>
+    <string name="chore_finished_check_label">Finished</string>
+</resources>
